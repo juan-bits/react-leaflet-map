@@ -1,0 +1,11 @@
+.title {
+  text-align: center;
+}
+
+.map {
+  height: 100vh;
+}
+
+.leaflet-container {
+  background-color: white;
+}
